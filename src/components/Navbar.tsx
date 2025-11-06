@@ -25,7 +25,7 @@ const Navbar = () => {
               <span className="text-2xl text-primary-foreground font-bold">Q</span>
             </div>
             <div className="flex flex-col">
-              <span className="text-xl font-bold text-foreground">Quran Institute</span>
+              <span className="text-xl font-bold text-foreground">Multani's institute</span>
               <span className="text-xs text-muted-foreground">Learn with Excellence</span>
             </div>
           </Link>

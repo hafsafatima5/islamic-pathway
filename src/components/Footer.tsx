@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* About */}
           <div>
-            <h3 className="text-lg font-bold mb-4">Quran Institute</h3>
+            <h3 className="text-lg font-bold mb-4">Multani's institute</h3>
             <p className="text-sm opacity-90">
               Dedicated to teaching the Holy Quran with proper Tajweed and understanding, 
               guided by qualified teachers.
@@ -72,7 +72,7 @@ const Footer = () => {
 
         {/* Bottom Bar */}
         <div className="border-t border-primary-foreground/20 mt-8 pt-8 text-center text-sm opacity-90">
-          <p>© {new Date().getFullYear()} Quran Institute. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Multani's institute. All rights reserved.</p>
           <p className="mt-2 text-xs">May Allah accept our efforts in spreading His knowledge.</p>
         </div>
       </div>
